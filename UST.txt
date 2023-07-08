@@ -1,0 +1,11 @@
+{
+ "name": "TerraUS",
+ "website": "https://www.terra.money",
+ "description": "Terra, a comprehensive financial platform based on stablecoins, is building a financial infrastructure for the next generation of decentralized applications. Terra will lay the foundation for a disruptive open platform for decentralized applications in the financial sector in the future, and will further increase the real GDP of the blockchain economy. TerraformLabs has identified areas of financial infrastructure that Terra can support. For the TerraUSD (UST) token, the use cases are not limited to Terra payments.",
+ "explorer": "https://www.tronscan.io/tokenAddr/TSCnk5Nmszzb9kDBafYZaYkZPNgiAKwpX2",
+ "type": "TRC20",
+ "symbol": "UST",
+ "decimals": 18,
+ "status": "active",
+ "id": "TSCnk5Nmszzb9kDBafYZaYkZPNgiAKwpX2"
+}
