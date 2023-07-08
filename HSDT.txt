@@ -1,0 +1,11 @@
+{
+ "name": "HotSwap-DerToken",
+ "website": "-",
+ "description": "HotSwap-DerToken is a new project launched by the Hot team. It has been included in Swap and has a large number of users. It is estimated that the total project capital can exceed 20.0K worth of OKT.",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0x0Bdf0370E3B4E01020b1F89C29e7f0B40575Cd89",
+ "type": "KIP20",
+ "symbol": "HSDT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0Bdf0370E3B4E01020b1F89C29e7f0B40575Cd89"
+}
